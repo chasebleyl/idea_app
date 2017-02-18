@@ -9,4 +9,4 @@ This is taken from an interview between Tim Ferris & James Altucher in "Tools of
 
 This app is built using **MaterializeCss**. It isn't currently built on any framework, but could be for authentication and data storing for returning users.
 
-For proof of concept visit [innovate.chasebleyl.com](innovate.chasebleyl.com).
+For proof of concept visit [innovate.chasebleyl.com](http://innovate.chasebleyl.com).
